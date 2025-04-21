@@ -1,0 +1,63 @@
+Title: CNN vs Transformer for Image Classification
+
+Convolutional Neural Networks (CNNs) have long dominated image classification tasks due to their ability to capture spatial hierarchies using convolutional layers.
+
+Recently, Vision Transformers (ViTs) have emerged as a strong alternative. Unlike C
+
+NNs, ViTs use self-attention mechanisms, allowing them to model long-range dependencies in images. However, they typically require more data and computational power to train effectively.
+
+CNNs remain more efficient on smaller datasets and are widely used in real-time systems. Transformers offer bett
+
+er generalization on large-scale datasets and have become state-of-the-art on several benchmarks.
+
+Conclusion: For small to medium image tasks, CNNs are still the go-to. For large-scale or multi-modal tasks, Transformers are preferred.
+
+
+Title: Summary of Machine Learning Research Trends (2021-2024)
+Machine learning has seen exponential growth in applications ranging from NLP and computer
+vision to healthcare and finance.
+Key Trends:
+1. Transformer architectures have revolutionized both language and vision domains.
+2. Transfer learn
+
+ing enables reusing pretrained models across tasks.
+3. Few-shot and zero-shot learning reduce the need for labeled data.
+4. Robustness, interpretability, and fairness have become top priorities.
+5. Open-source datasets and models have accelerated innovation.
+Conclusion:
+The ML landscape is evolving 
+
+toward foundation models and adaptive systems, driven by compute
+power and data availability.
+
+Title: CNN vs Transformer for Image Classification
+
+Convolutional Neural Networks (CNNs) have long dominated image classification tasks due to their ability to capture spatial hierarchies using convolutional layers.
+
+Recently, Vision Transformers (ViTs) have emerged as a strong alternative. Unlike C
+
+NNs, ViTs use self-attention mechanisms, allowing them to model long-range dependencies in images. However, they typically require more data and computational power to train effectively.
+
+CNNs remain more efficient on smaller datasets and are widely used in real-time systems. Transformers offer bett
+
+er generalization on large-scale datasets and have become state-of-the-art on several benchmarks.
+
+Conclusion: For small to medium image tasks, CNNs are still the go-to. For large-scale or multi-modal tasks, Transformers are preferred.
+
+
+Title: Summary of Machine Learning Research Trends (2021-2024)
+Machine learning has seen exponential growth in applications ranging from NLP and computer
+vision to healthcare and finance.
+Key Trends:
+1. Transformer architectures have revolutionized both language and vision domains.
+2. Transfer learn
+
+ing enables reusing pretrained models across tasks.
+3. Few-shot and zero-shot learning reduce the need for labeled data.
+4. Robustness, interpretability, and fairness have become top priorities.
+5. Open-source datasets and models have accelerated innovation.
+Conclusion:
+The ML landscape is evolving 
+
+toward foundation models and adaptive systems, driven by compute
+power and data availability.
