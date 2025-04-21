@@ -13,5 +13,5 @@ Index embeddings in FAISS for semantic search.
 Monitor the data/ folder for new documents and re‑index on‑the‑fly.
 
 Retrieve relevant chunks based on a user query.
-
+   
 Generate answers using a local Ollama (Llama‑family) model without requiring internet access.
